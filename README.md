@@ -6,10 +6,10 @@ by analyzing their text. Exploring two document representations: word counts and
 Building iPython notebook for retrieving articles from Wikipedia about famous people.
 
 
-Learning outcomes:
+####Outcome:
 
--Execute document retrieval code with the iPython notebook  
--Load and transform real, text data  
--Compare results with word counts and TF-IDF  
--Set the distance function in the retrieval  
--Build a document retrieval model using nearest neighbor search  
+-Executing document retrieval code with the iPython notebook  
+-Loading and transforming real text data  
+-Comparing results with word counts and TF-IDF  
+-Setting the distance function in the retrieval  
+-Building a document retrieval model using nearest neighbor search  
